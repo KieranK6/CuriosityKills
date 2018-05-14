@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{58fc231c-c49b-42ac-9524-7dd317d91b88}">
+        <property name="assetPath">
+            <value>Cave.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>26.529274376417234</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{47414928-e57c-4491-8450-db9de1a72195}</destination>
+        </relationship>
+    </object>
+</objects>

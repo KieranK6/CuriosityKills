@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{fcdd23a8-421b-40c6-b6e7-cd958abc8dc7}">
+        <property name="assetPath">
+            <value>33_That_Was_Impressive.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.5730416666666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{47414928-e57c-4491-8450-db9de1a72195}</destination>
+        </relationship>
+    </object>
+</objects>

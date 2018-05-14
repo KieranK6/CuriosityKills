@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{cd499626-f88f-467d-b504-9d61fd92f18c}">
+        <property name="name">
+            <value>Canyon</value>
+        </property>
+        <relationship name="folder">
+            <destination>{85973f82-3d3e-496a-842b-0091154319e8}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{b5f8afc2-322f-4213-9be8-77f2012d1af2}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{b5f8afc2-322f-4213-9be8-77f2012d1af2}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+        <property name="seekSpeed">
+            <value>3</value>
+        </property>
+    </object>
+</objects>
